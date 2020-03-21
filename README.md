@@ -16,5 +16,5 @@ Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from c
   - Install Virtualenv type in the command **pip install virtualenv**
   - Create a directory. For windows, use **cd<directory name>. For MAC, use **mkdir <directory name>**
   - Activate environment. **(For Windows)** venv\scripts\activate ,**(For Mac OS)** source venv/bin/activate
-- Install Flask : Pip install Flask
+- Install Flask : **pip install Flask**
 
