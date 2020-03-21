@@ -13,13 +13,8 @@ Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from c
 
 # Installing Flask:
 - Install a virtual enviorment
--- To install Virtualenv type in the command **pip install virtualenv**
--- Create a directory. For windows, use **cd<directory name>**. For MAC, use **mkdir <directory name>**
--- 
-Virtualenv venv
-To activate environment  
-source venv/bin/activate  (For Mac OS)
-venv\scripts\activate(For Windows)
-
-To Install Flask : Pip install Flask
+  -- Install Virtualenv type in the command **pip install virtualenv**
+  -- Create a directory. For windows, use **cd<directory name>**. For MAC, use **mkdir <directory name>**
+  -- Activate environment. **(For Windows) venv\scripts\activate** ,**  (For Mac OS) source venv/bin/activate**
+- Install Flask : Pip install Flask
 
