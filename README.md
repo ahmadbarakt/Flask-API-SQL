@@ -17,5 +17,5 @@ Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from c
   - Create a directory.  **mkdir "directory name"** | **cd "directory name"**
   - Type **virtualenv venv** using coomand promote inside the directory 
   - Activate environment. **(For Windows)** venv\scripts\activate ,**(For Mac OS)** source venv/bin/activate
-- Install Flask : **pip install Flask**
+- Install Flask : **pip install Flask** | **pip install Flask
 
