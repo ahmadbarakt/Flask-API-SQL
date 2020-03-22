@@ -19,3 +19,6 @@ Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from c
   - Activate environment. **(For Windows)** venv\scripts\activate ,**(For Mac OS)** source venv/bin/activate
 - Install Flask : **pip install Flask** | **pip install Flask
 
+# FLask Status Codes:
+Flask API includes a set of named constants that you can use to make more code more obvious and readable. The codes can be find in the following [website](https://www.flaskapi.org/api-guide/status-codes/)
+
